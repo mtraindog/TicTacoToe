@@ -1,0 +1,8 @@
+{
+  "AppSettings": {
+    "GameDataPath": "C:\\TicTacToe\\gamedata.txt",
+    "GameEndSleepMs": 2000,
+    "CpuMoveSleepMs": 667,
+    "RunSimulations": false
+  }
+}
